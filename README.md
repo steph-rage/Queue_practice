@@ -1,4 +1,4 @@
-# Stack_practice
+# Queue practice
 
 A Python implementation of a queue, without using any built-in Python methods.  
 
